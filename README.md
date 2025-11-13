@@ -13,6 +13,12 @@
   </p>
 
   <img src="https://media.tenor.com/abyxk7.gif" height="180" alt="cute cat gif" />
+
+  <!-- shop button -->
+  <br><br>
+  <a href="https://meowly.sell.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9C%A7%20visit%20my%20shop-%23ffb6c1?style=for-the-badge&logo=shopify&logoColor=black&labelColor=ff9ebd&color=ffb6c1" alt="Shop Badge">
+  </a>
 </div>
 
 ---
@@ -41,6 +47,11 @@
 
 ✨ “Stay curious, stay chaotic, stay Meowly.” ✨  
 <br>
-ʚ(｡•ᴗ•｡)ɞ ~ follow for more cat energy 💫
+ʚ(｡•ᴗ•｡)ɞ ~ follow for more cat energy 💫  
+<br><br>
+
+<a href="https://meowly.sell.app/" target="_blank">
+  🛍️ <b>meowly.sell.app</b> — cute chaos, delivered.
+</a>
 
 </div>
