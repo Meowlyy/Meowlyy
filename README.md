@@ -1,61 +1,75 @@
 <!-- ✦ ˚ʚ Meowly ₊✧ | Developer Profile ✦ -->
 
+<!-- animated background -->
 <div align="center">
-  
-  <!-- animated gradient background -->
-  <img src="https://raw.githubusercontent.com/Meowlyy/Meowlyy/main/assets/animated-bg.svg" width="100%" height="auto" alt="animated background">
+  <img src="https://github.com/Meowlyy/Meowlyy/assets/animated-wave.gif" width="100%" height="auto" alt="animated background" />
+</div>
 
-  <h1 align="center" style="font-weight:700; font-size:42px;">
-    ˚ʚ Meowly ₊✧
-  </h1>
-  
-  <p align="center">
-    <b>developer • builder • innovator</b><br>
-    crafting clean experiences through code ✦  
-  </p>
+<h1 align="center">˚ʚ Meowly ₊✧</h1>
 
-  <br>
+<div align="center">
 
-  <!-- social / shop -->
-  <a href="https://meowly.sell.app/" target="_blank">
-    <img src="https://img.shields.io/badge/shop-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=f5f5f5&color=ededed" alt="Shop Badge">
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Meowlyy.Meowlyy&left_color=000000&right_color=000000&left_text=visits" alt="visitor badge">
+*「未来をコードで描く」 — painting the future with code.*
+
+💫 **AI Developer | Game Creator | Automation Enthusiast**  
+🇯🇵・🇰🇷 Inspired by precision, minimalism & creation through technology
+
 </div>
 
 ---
 
-### 🧠 about me
+### 💻 Tech Stack
 
-> 💻 python • c++ • html/css/js  
-> 🧩 problem solver & clean code enthusiast  
-> 🚀 building tools, systems & digital experiences  
-> 🌐 constantly exploring automation & backend logic  
+<div align="center">
+
+|  |  |
+|--|--|
+| 🧠 **Languages** | Python · C++ · HTML/CSS/JS |
+| ⚙️ **AI / ML** | YOLOv8 · OpenCV · TensorFlow · PyTorch |
+| 🎮 **Projects** | Rocket League bots · Automation systems · AI tools |
+| 🧩 **Focus** | Code efficiency · AI logic · Creative systems |
+
+</div>
+
+---
+
+### 🌸 Aesthetic Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Meowlyy&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Meowly%20Stats" height="150" />
+<br>
+<img src="https://custom-icon-badges.demolab.com/badge/total%20stars-%E2%98%85%2012k-111827?style=for-the-badge&logo=star&logoColor=white&color=8b5cf6" />
+<img src="https://custom-icon-badges.demolab.com/badge/total%20commits-%E2%9C%A8%20all%20time-111827?style=for-the-badge&logo=git-commit&logoColor=white&color=6366f1" />
+
+</div>
+
+---
+
+### 🌙 About ˚ʚ Meowly ₊✧
+
+> ✧ creating experiences that blend logic and art  
+> ✧ exploring the edge of AI and digital interaction  
+> ✧ driven by perfectionism and curiosity  
 
 ---
 
 <div align="center">
 
-### 📈 stats
+<a href="https://meowly.sell.app/" target="_blank">
+  <img src="https://img.shields.io/badge/visit%20my%20shop-%23f9e6f9?style=for-the-badge&logo=sparkles&logoColor=000000&labelColor=f4b8d9&color=fce7f3" alt="Shop Badge" />
+</a>
 
-<!-- total stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=Meowlyy&hide=contribs,prs,issues&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=stats&line_height=20&card_width=400&text_bold=false&disable_animations=false&locale=en&show=reviews&rank_icon=github&hide_border=false" height="130" />
-
-<!-- custom total commits + stars (clean badges) -->
 <br><br>
-<img src="https://custom-icon-badges.demolab.com/badge/total%20stars-★%2012k-111111?style=for-the-badge&logo=star&logoColor=gold&color=181818" />
-<img src="https://custom-icon-badges.demolab.com/badge/total%20commits-∞%20all%20time-111111?style=for-the-badge&logo=git-commit&logoColor=white&color=181818" />
+<sub>「心で感じ、コードで創る。」 – Feel with your heart, build with your code.</sub>  
+<br>
+<b>˚ʚ Meowly ₊✧</b>
 
 </div>
 
 ---
 
+<!-- soft animated divider -->
 <div align="center">
-  <p><i>“Perfection is achieved not when there’s nothing more to add, but when there’s nothing left to take away.”</i></p>
-  <p><b>˚ʚ Meowly ₊✧</b> — crafted with precision.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" width="100%" />
 </div>
-
----
-
-<!-- animated gradient background overlay -->
-<img src="https://raw.githubusercontent.com/Meowlyy/Meowlyy/main/assets/animated-bg.svg" width="100%" height="auto" alt="animated background bottom">
