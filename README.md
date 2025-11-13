@@ -1,22 +1,46 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Meowlyy.Meowlyy&left_color=black&right_color=black&left_text=%CA%9A%E0%AB%AE%E2%82%8D%20%C2%B4%E2%80%A2%20%CB%95%20%E2%80%A2%60%20%E2%82%8E%E1%83%90~%C9%9E%20%20views%20%E2%82%8A%E2%9C%A7"  />
-</div>
-
-###
-
-<img align="right" height="200" src="https://imgflip.com/gif/abyxk7"  />
-
-###
-
-<p align="left">ʚMEOWLY ON TOP   ૮₍ ´• ˕ •` ₎ა~ɞ ₊✧<br><br>ʚMEOWLY ON TOP   ૮₍ ´• ˕ •` ₎ა~ɞ ₊✧<br><br>ʚMEOWLY ON TOP   ૮₍ ´• ˕ •` ₎ა~ɞ ₊✧<br><br>ʚMEOWLY ON TOP   ૮₍ ´• ˕ •` ₎ა~ɞ ₊✧</p>
-
-###
-
-<br clear="both">
+<!-- ✦ Meowly GitHub Profile ✦ -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meowlyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowlyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <!-- visitor badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Meowlyy.Meowlyy&left_color=black&right_color=black&left_text=ʚ%20MEOWLY%20views%20ɞ" />
+  
+  <h1>ʚ(｡˃ ᵕ ˂ ) Meowly on Top ₊˚✧</h1>
+
+  <p>
+    ૮₍ ´• ˕ •` ₎ა welcome to my cozy corner on GitHub ♡  
+    <br>✨ I build things, break things, and make them cute again 🐾
+  </p>
+
+  <img src="https://media.tenor.com/abyxk7.gif" height="180" alt="cute cat gif" />
 </div>
 
-###
+---
+
+### 🐾 about me
+
+- 💻 developer // designer // cat enthusiast  
+- 🎧 music + caffeine = productivity  
+- 🐈 powered by curiosity & chaos  
+- 🌙 working on random fun projects
+
+---
+
+<div align="center">
+
+### 📊 stats & activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Meowlyy&show_icons=true&theme=dracula&hide_border=false&rank_icon=github&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowlyy&layout=compact&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Stay curious, stay chaotic, stay Meowly.” ✨  
+<br>
+ʚ(｡•ᴗ•｡)ɞ ~ follow for more cat energy 💫
+
+</div>
