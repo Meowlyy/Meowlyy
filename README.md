@@ -30,7 +30,7 @@
 
 ### projects
 
-♡ [anime tracker](https://github.com/Meowlyy/anime-tracker) — personal anime watchlist app · `html` `css` `javascript`  
+♡ [anime tracker](https://github.com/Meowlyy/anime-tracker) — personal anime watchlist app · `html` `css` `javascript` · [live demo](https://anime-tracker-9nl.pages.dev)
 
 ---
 
